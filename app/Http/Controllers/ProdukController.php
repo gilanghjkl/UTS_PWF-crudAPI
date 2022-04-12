@@ -32,7 +32,7 @@ class ProdukController extends Controller
     ]);
     //mengirim response
     return response()->json([
-        'msg' => 'Data Produk Berhasil disimpan'
+        'msg' => 'Hore Data berhasil ditambahkan!!!'
     ],201);
     }
 
